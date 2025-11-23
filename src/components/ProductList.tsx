@@ -43,8 +43,8 @@ const products: ProductsType = [
         sizes: ["S", "M", "L", "XL"],
         colors: ["gray", "purple", "green"],
         images: {
-            gray: "/products/3g.png",
-            purple: "/products/3p.png",
+            gray: "/products/3b.png",
+            purple: "/products/3bl.png",
             green: "/products/3gr.png",
         },
     },
@@ -58,7 +58,7 @@ const products: ProductsType = [
         sizes: ["S", "M", "L", "XL"],
         colors: ["gray", "purple", "green"],
         images: {
-            gray: "/products/4g.png",
+            gray: "/products/4w.png",
             purple: "/products/4p.png",
             green: "/products/4gr.png",
         },
@@ -73,9 +73,9 @@ const products: ProductsType = [
         sizes: ["S", "M", "L", "XL"],
         colors: ["gray", "purple", "green"],
         images: {
-            gray: "/products/5g.png",
-            purple: "/products/5p.png",
-            green: "/products/5gr.png",
+            gray: "/products/5bl.png",
+            purple: "/products/50.png",
+            green: "/products/5r.png",
         },
     },
     {
@@ -89,8 +89,38 @@ const products: ProductsType = [
         colors: ["gray", "purple", "green"],
         images: {
             gray: "/products/6g.png",
-            purple: "/products/6p.png",
+            purple: "/products/6w.png",
             green: "/products/6gr.png",
+        },
+    },
+    {
+        id: 7,
+        name: "Classic White T-Shirt",
+        shortDescription: "A timeless white t-shirt for everyday wear.",
+        description:
+            "This classic white t-shirt is made from 100% organic cotton, providing comfort and durability. Perfect for casual outings or layering under jackets.",
+        price: 19.99,
+        sizes: ["S", "M", "L", "XL"],
+        colors: ["gray", "purple", "green"],
+        images: {
+            gray: "/products/7g.png",
+            purple: "/products/7p.png",
+            green: "/products/7gr.png",
+        },
+    },
+    {
+        id: 8,
+        name: "Classic White T-Shirt",
+        shortDescription: "A timeless white t-shirt for everyday wear.",
+        description:
+            "This classic white t-shirt is made from 100% organic cotton, providing comfort and durability. Perfect for casual outings or layering under jackets.",
+        price: 19.99,
+        sizes: ["S", "M", "L", "XL"],
+        colors: ["gray", "purple", "green"],
+        images: {
+            gray: "/products/8b.png",
+            purple: "/products/8w.png",
+            green: "/products/8gr.png",
         },
     },
 ];
