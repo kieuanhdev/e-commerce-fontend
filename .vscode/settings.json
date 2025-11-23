@@ -1,0 +1,25 @@
+{
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggest.showSnippets": true,
+  "editor.snippetSuggestions": "top",
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "on",
+  "editor.suggest.filterGraceful": true,
+  "editor.suggest.localityBonus": true,
+  "editor.suggest.showWords": false,
+  "editor.suggest.showKeywords": false,
+  "editor.suggest.showClasses": false,
+  "editor.suggest.showFunctions": false,
+  "editor.suggest.showVariables": false,
+  "editor.suggest.showModules": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggest.preview": true,
+  "editor.suggest.maxVisibleSuggestions": 12,
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
+
